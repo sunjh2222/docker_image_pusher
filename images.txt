@@ -1,1 +1,1 @@
-docker.io/langfuse/langfuse-worker:3
+golang:1.24.6
